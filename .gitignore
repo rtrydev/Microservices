@@ -1,0 +1,9 @@
+/CommandsService/.idea/
+/CommandsService/obj/
+/CommandsService/bin/
+/PlatformService/.idea/
+/PlatformService/obj/
+/PlatformService/bin/
+.vscode
+.DS_Store
+.idea
